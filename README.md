@@ -1,4 +1,6 @@
 # Project-Heimdall
-¯\_( ͡° ͜ʖ ͡°)_/¯
-Official README for Project Heimdall. All information is propreitary and should not be released without express permission from the owners.
-[INSERT MORE INDIMIDATING LEGAL SHIT]
+A rocket, or.. something. Maybe it spins.
+
+All information contained within this repository is propreitary and shall not be released for use in any non-Lacuna Enterprises business without express written permission from Lacuna Enterprises.
+
+
